@@ -1,6 +1,4 @@
-# cs-intro2-game_of_life
-
-# Game Of Life
+# [Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 > The classic program learning assignment using some ncurses
 
 ![](output.gif)
@@ -8,7 +6,8 @@
 ## Deppendencies
 
 Linux:
-```sudo apt-get install build-essential
+```sh
+sudo apt-get install build-essential
 sudo apt-get install libncurses5-dev
 ```
 
@@ -16,6 +15,8 @@ sudo apt-get install libncurses5-dev
 
 Linux:
 
-```make
+```sh
+make
 ./gol
 ```
+
