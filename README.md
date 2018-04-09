@@ -1,7 +1,8 @@
 # Game of Life
-The classic programming learning assignment that displays [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on the terminal using some ncurses
-
 ![](output.gif)
+
+# Overview
+The classic programming learning assignment that displays [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on the terminal using some ncurses
 
 ## Dependencies
 
